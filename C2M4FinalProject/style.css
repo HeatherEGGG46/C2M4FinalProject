@@ -3,6 +3,18 @@ html {
   width: 100%;
 }
 
+body {
+  font-family:'Calibri', Serif;
+}
+
+main {
+background-color:#B9F2FF;
+}
+
+header {
+background-color:#5BE0FF;
+}
+
 .grid {
   display: grid;
   grid-template-columns: 20% 20% 20%;
@@ -26,6 +38,7 @@ nav {
   background-color: #bfbfbf;
   display: inline-block;
   width: 80%
+  text-decoration: none;
 }
 
 .nav {
